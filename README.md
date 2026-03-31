@@ -2,8 +2,6 @@
 
 **Compter Science Student @ Shepherd University**
 
-## Languages I've Used
-
 [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
 [![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#)
