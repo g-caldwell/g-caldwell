@@ -1,16 +1,16 @@
 # Gabriel A. Caldwell
 
-**🗺️ Falling Waters, WV**
+**Studying Compter Science @ Shepherd University**
 
-**Compter Science Student @ Shepherd University**
+**📍 Falling Waters, WV**
 
-# Technologies
+# Technologies I Use
 
-### 📜 Programming Languages:
+### Programming Languages:
 [![My Skills](https://skillicons.dev/icons?i=java,python,cs,cpp,c,r,mysql,html,css,latex)](https://skillicons.dev)
 
-### 🧰 IDEs:
+### IDEs:
 [![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,idea,clion,pycharm,arduino,)](https://skillicons.dev)
 
-### 💾 Version Control:
+### Version Control:
 [![My Skills](https://skillicons.dev/icons?i=github,git)](https://skillicons.dev)
