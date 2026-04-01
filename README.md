@@ -6,7 +6,7 @@
 
 # Technologies I Use
 
-### Programming Languages:
+### Languages:
 [![My Skills](https://skillicons.dev/icons?i=java,python,cs,cpp,c,r,mysql,html,css,latex)](https://skillicons.dev)
 
 ### IDEs:
