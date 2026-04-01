@@ -1,6 +1,6 @@
 # Gabriel A. Caldwell
 
-**Studying Compter Science @ Shepherd University**
+**📚 Studying Compter Science @ Shepherd University**
 
 **📍 Falling Waters, WV**
 
