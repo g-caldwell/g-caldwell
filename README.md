@@ -14,6 +14,3 @@
 
 ### Version Control:
 [![My Skills](https://skillicons.dev/icons?i=github,git)](https://skillicons.dev)
-
-> [!IMPORTANT]
-> Download my resume [here](https://example.com).
